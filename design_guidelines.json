@@ -1,0 +1,14 @@
+{
+  "source": "User-provided Clean daylight design system",
+  "name": "Haven — Routine Studio",
+  "color": {
+    "surface": "#F8F9FB", "surfaceSecondary": "#FFFFFF", "onSurface": "#16181D",
+    "muted": "#5B6270", "border": "#E7E9EE", "brandPrimary": "#3A66C4",
+    "pressed": "#2F55AA", "brandSecondary": "#E7ECF9", "success": "#1F8E5A",
+    "warning": "#C77D28", "error": "#C0492F"
+  },
+  "typography": {"headings": "Hanken Grotesk 600/700", "body": "Hanken Grotesk 400/500", "labels": "IBM Plex Mono 500", "loading": "Local assets with expo-font"},
+  "layout": {"screenPadding": 20, "cardRadius": 16, "controlRadius": 12, "minimumTouchTarget": 44, "stickyHeader": true},
+  "motion": {"duration": 350, "stagger": 60, "testSequence": 300, "assembling": 1600, "respectReducedMotion": true},
+  "scope": "One mock-only native mobile routine-builder slice. No authentication, backend, pairing, settings, or routine list."
+}
